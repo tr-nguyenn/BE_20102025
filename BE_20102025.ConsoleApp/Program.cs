@@ -10,6 +10,9 @@ namespace BE_20102025.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test commit");
+            Console.WriteLine("Trung Nguyên");
+            Console.WriteLine("Trung Nguyên");
         }
     }
 }
